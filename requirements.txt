@@ -1,0 +1,4 @@
+python-dotenv==1.1.0
+ratelimit==2.2.1
+Requests==2.32.3
+selenium==4.32.0
