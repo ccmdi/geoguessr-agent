@@ -3,9 +3,8 @@ Autonomous framework using browser automation to allow large language models to 
 # Setup
 1. `pip install -r requirements.txt`
 2. Add `GEMINI_API_KEY` to .env
-3. `python bot.py`
-
-You may choose to change to chromedriver
+3. Change `EDGE_USER_DATA_DIR` and `MSEDGEDRIVER_PATH` as necessary (replace USERNAME)
+4. `python bot.py`
 
 # Duel loop
 1. Once a duel has been started, the loop begins by detecting relevant UI elements and either storing their value or removing them from display (e.g. HP bars).
