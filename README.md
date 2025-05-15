@@ -1,13 +1,16 @@
 
-<div style="background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 4px; color: #856404; padding: 16px; margin-bottom: 16px;">
-  <div style="display: flex; align-items: center;">
-    <div style="font-size: 24px; margin-right: 12px;">⚠️</div>
-    <div>
-      <strong style="font-size: 18px;">WARNING: DO NOT USE THIS FRAMEWORK TO CHEAT</strong>
-      <p style="margin-top: 8px; margin-bottom: 0;">This framework is intended for research and educational purposes only. Using it to gain unfair advantages in competitive GeoGuessr gameplay is against the platform's terms of service and community standards.</p>
-    </div>
-  </div>
-</div>
+<table style="width:100%; border: 1px solid #FFCC00; background-color: #FFFBEA; border-collapse: collapse; margin-top: 10px; margin-bottom: 20px;">
+  <tr>
+    <td style="padding: 15px; text-align: center;">
+      <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 1.1em;">
+        ⚠️ DO NOT USE THIS FRAMEWORK TO CHEAT
+      </p>
+      <p style="margin: 0; font-size: 0.9em; color: #555555;">
+        This project is intended for educational and experimental purposes only. Using this framework to gain an unfair advantage in GeoGuessr or any other game violates its terms of service and is contrary to the spirit of fair play.
+      </p>
+    </td>
+  </tr>
+</table>
 
 Autonomous framework using browser automation to allow large language models to play GeoGuessr.
 
