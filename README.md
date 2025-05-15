@@ -1,9 +1,20 @@
+
+<div style="background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 4px; color: #856404; padding: 16px; margin-bottom: 16px;">
+  <div style="display: flex; align-items: center;">
+    <div style="font-size: 24px; margin-right: 12px;">⚠️</div>
+    <div>
+      <strong style="font-size: 18px;">WARNING: DO NOT USE THIS FRAMEWORK TO CHEAT</strong>
+      <p style="margin-top: 8px; margin-bottom: 0;">This framework is intended for research and educational purposes only. Using it to gain unfair advantages in competitive GeoGuessr gameplay is against the platform's terms of service and community standards.</p>
+    </div>
+  </div>
+</div>
+
 Autonomous framework using browser automation to allow large language models to play GeoGuessr.
 
 # Setup
 1. `pip install -r requirements.txt`
 2. Add `GEMINI_API_KEY` to .env
-3. Change `EDGE_USER_DATA_DIR` and `MSEDGEDRIVER_PATH` as necessary (replace USERNAME)
+3. Change `EDGE_USER_DATA_DIR` and `MSEDGEDRIVER_PATH` as necessary in `config.py` (replace USERNAME)
 4. `python bot.py`
 
 # Duel loop
