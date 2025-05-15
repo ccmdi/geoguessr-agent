@@ -1,5 +1,7 @@
 
 > ⚠️ **DO NOT USE THIS FRAMEWORK TO CHEAT** ⚠️
+>
+> This project is for educational and experimental purposes only. Using this framework to gain an unfair advantage in GeoGuessr or any other game violates its terms of service and goes against the spirit of fair play.
 
 Autonomous framework using browser automation to allow large language models to play GeoGuessr.
 
