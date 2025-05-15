@@ -1,16 +1,5 @@
 
-<table style="width:100%; border: 1px solid #FFCC00; background-color: #FFFBEA; border-collapse: collapse; margin-top: 10px; margin-bottom: 20px;">
-  <tr>
-    <td style="padding: 15px; text-align: center;">
-      <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 1.1em;">
-        ⚠️ DO NOT USE THIS FRAMEWORK TO CHEAT
-      </p>
-      <p style="margin: 0; font-size: 0.9em; color: #555555;">
-        This project is intended for educational and experimental purposes only. Using this framework to gain an unfair advantage in GeoGuessr or any other game violates its terms of service and is contrary to the spirit of fair play.
-      </p>
-    </td>
-  </tr>
-</table>
+> ⚠️ **DO NOT USE THIS FRAMEWORK TO CHEAT** ⚠️
 
 Autonomous framework using browser automation to allow large language models to play GeoGuessr.
 
